@@ -1,0 +1,8 @@
+sethome-cost: 30 #xp lvl
+
+teleport-cost: 5 #xp lvl
+teleport-delay: 5 #sec
+
+teleport-over-the-worlds: false
+allowed-worlds:
+  - world

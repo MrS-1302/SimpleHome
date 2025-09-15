@@ -1,0 +1,19 @@
+name: SimpleHome
+version: '1.0'
+main: hu.mrserver.simpleHome.SimpleHome
+api-version: '1.21'
+
+commands:
+  sethome:
+    description: "Beállítja a játékos otthonát"
+    usage: "/sethome"
+  delhome:
+    description: "Törli a játékos otthonát"
+    usage: "/delhome"
+  home:
+    description: "Hazateleportál"
+    usage: "/home"
+  simplehome:
+    description: "Admin parancsok a SimpleHome pluginhoz"
+    usage: "/simplehome reload"
+    permission: simplehome.admin
