@@ -7,3 +7,5 @@ Főbb funkciók
 - Home-ok perzisztens mentése homes.yml fájlba
 - Szövegek testreszabása messages.yml-ben
 - Admin parancs: /simplehome reload (config újratöltése)
+
+Tesztelt verzió: 1.21.7
